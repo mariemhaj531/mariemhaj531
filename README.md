@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mariem Hajji
-- 🌱 I’m currently learning Full-stack JS (ReactJs/Spring Boot)
+- 🌱 I’m a Full-stack JS developer(ReactJs,Python,PHP)
+- 😊 I'm working on AI projects
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me:https://www.linkedin.com/in/mariem-hajji-6684661b6/
 
