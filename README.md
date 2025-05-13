@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mariem Hajji and I'm a Web Developer from Tunisia.</p>
+<p align="left">My name is Mariem Hajji from Tunisia.</p>
 
 ###
 
